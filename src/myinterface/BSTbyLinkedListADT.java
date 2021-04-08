@@ -6,5 +6,6 @@ public interface BSTbyLinkedListADT {
     int removeMax();
     int removeMin();
     boolean Search(int data);
+    void treverse();
 
 }
